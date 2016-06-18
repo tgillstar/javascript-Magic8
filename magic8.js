@@ -59,7 +59,7 @@
             if (this.question.length === 0) {
                 throw "Did not ask a question";   
             } 
-            var cleanQ = this.scrubQuestion(this.question);//.trim();
+            var cleanQ = this.scrubQuestion(this.question);
             if (cleanQ.length === 0) {
                 throw "Invalid question";
             }
