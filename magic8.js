@@ -154,7 +154,7 @@
             // display the answer in the chosen place on the DOM
             function displayAnswer(results) {
                 // fade in the answer from the Magic 8 Ball
-                $(selector).html(results).hide().fadeIn(4000);
+                $(selector).html(results).fadeIn(4000);
             }
             
             // The Magic 8 Ball wait for answer
