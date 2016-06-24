@@ -1,5 +1,5 @@
 # Magic 8 mini Javascript library
-===========
+------------
 A mini Javascript library that recreates the simple Q &amp; A of the Magic 8-Ball fortune-telling toy. It is supported by JQuery to handle the DOM-specific operations. Check out the Wikipedia page to learn more: https://en.wikipedia.org/wiki/Magic_8-Ball
 ------------
 To use this library you need to create a form with the following:
